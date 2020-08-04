@@ -1,0 +1,53 @@
+# git-basics-aug-2019
+git config
+git init
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash
+# linux commands
+ls
+pwd
+uname
+ifconfig
+sudo su
+chmod +x *
+mkdir
+rmdir
+touch
+cat
+help
+rm -r file.txt
+cp - copy command
+more 
+less
+sort
+echo
+cd ..
+grep
+msfconsole
+msfconsole -q
+clear
+man
+history
+# protocols
+FTP - 20,21
+TELENET - 23
+SMTP - 25
+DNS - 53(UDP)
+HTTP - 80
+POP3 - 110
+HTTPS - 443
