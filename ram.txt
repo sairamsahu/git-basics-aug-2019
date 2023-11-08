@@ -1,1 +1,1 @@
-this is the git practice git hub 
+git - disturbuted version control system 
